@@ -11,7 +11,7 @@
 
 ## Project Description
 
-Some restaurant ordering requires writing down orders by hand, computing totals with a calculator, and preparing receipts manually, which can lead to calculation errors, delays, and disorganized records. This project digitizes the process into a lightweight, interactive C# Console Application for Bianacel Restaurant featuring a customer greeting, order type selection, a menu with ASCII-art food drawings, multi-item ordering, automated bill computation, cash payment with change, and a formatted receipt.
+Some restaurant ordering requires writing down orders by hand, computing totals with a calculator, and preparing receipts manually, which can lead to calculation errors, delays, and disorganized records. This project digitizes the process into a lightweight, interactive C# Console Application for Bianacel Restaurant featuring a customer greeting, order type selection, a menu with ASCII-art food drawings, multi-item ordering, automated bill computation, cash payment with change, and a organized receipt.
 
 ## Objectives
 
