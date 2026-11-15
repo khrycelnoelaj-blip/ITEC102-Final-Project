@@ -47,6 +47,6 @@ Some restaurant ordering requires writing down orders by hand, computing totals 
 ## How to Run the Code
 
 1. Open the source file located at `src/Program.cs`.
-2. Copy the code into **OnlineGDB** ([onlinegdb.com](https://onlinegdb.com/)) with the language set to **C#**, or open it in **Visual Studio** / **.NET CLI**.
+2. Copy the code into **OnlineGDB** ([onlinegdb.com](https://onlinegdb.com/)) with the language set to **C#**, or open it in **Visual Studio Code** / **.NET**.
 3. Click **Run** (or run `dotnet run` in your terminal).
 4. Enter your name, answer `Y` to start an order, choose the order type, then type item numbers (`1–12`) with quantities. Enter `0` when done, then type the cash amount to get your receipt.
