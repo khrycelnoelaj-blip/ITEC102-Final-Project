@@ -3,12 +3,6 @@
 **Course:** ITEC 102 – Fundamentals of Programming  
 **Institution:** Laguna State Polytechnic University – College of Computer Studies
 
-## Group Members
-
-- **Jaraplasan, Khrycel Noela E.**
-- **Palmero, Jilliana Miel A.**
-- **Villaflores, Bianca Mae G.**
-
 ## Project Description
 
 Traditional restaurant ordering requires writing down orders by hand, computing totals with a calculator, and preparing receipts manually, which can lead to calculation errors, delays, and disorganized records. This project digitizes the process into a lightweight, interactive **C# Console Application** for **Bianacel Restaurant** featuring a customer greeting, order type selection, a menu with ASCII-art food drawings, multi-item ordering, automated bill computation, cash payment with change, and a formatted receipt.
@@ -28,6 +22,12 @@ Traditional restaurant ordering requires writing down orders by hand, computing 
 - To display accurate and organized results through the console interface, including the menu with ASCII-art drawings, the bill, and the receipt.
 - To test the program and verify that its features—including input validation and the no-order option—work reliably without crashing.
 
+## Group Members
+
+- **Jaraplasan, Khrycel Noela E.**
+- **Palmero, Jilliana Miel A.**
+- **Villaflores, Bianca Mae G.**
+- 
 ## Technologies & Programming Language Used
 
 - **Language:** C#
