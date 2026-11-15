@@ -18,7 +18,7 @@ Some restaurant ordering requires writing down orders by hand, computing totals 
 ### General Objective
 
 - To develop a functional, interactive C# console-based food restaurant menu ordering system that automates order taking, bill calculation, payment processing, and receipt display using basic programming constructs.
-- 
+  
 ### Specific Objectives
 
 - To develop a simple C# console application that addresses the problem of manual order taking and bill computation in a restaurant.
